@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<a:fontScheme name="Hiragino" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+  <a:majorFont>
+    <a:latin typeface="ヒラギノ角ゴシック W6" />
+    <a:ea typeface="" />
+    <a:cs typeface="" />
+    <a:font script="Jpan" typeface="ヒラギノ角ゴシック W6"/>
+  </a:majorFont>
+  <a:minorFont>
+    <a:latin typeface="ヒラギノ角ゴシック W2" />
+    <a:ea typeface="" />
+    <a:cs typeface="" />
+    <a:font script="Jpan" typeface="ヒラギノ角ゴシック W2"/>
+  </a:minorFont>
+</a:fontScheme>
